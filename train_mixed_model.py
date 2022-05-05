@@ -765,7 +765,6 @@ def cnn():
     train_cnn(file_name=path_prefix + "cifar10_cnn_6layer_5_3_with_positive_weights_atan", dataset='cifar10',
               filters=[5, 5, 5, 5, 5], kernels=[3, 3, 3, 3, 3], num_epochs=50, activation=tf.atan)
 
-
 if __name__ == '__main__':
     fnn()
     cnn()
