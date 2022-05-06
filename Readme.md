@@ -12,7 +12,7 @@ Accuracy of trained models:
       <td>Accuracy</td>
    </tr>
    <tr>
-      <td>CNN</td>
+      <td>FNN</td>
       <td>3*50</td>
       <td>sigmod</td>
       <td>mnist</td>
@@ -390,7 +390,7 @@ Accuracy of trained models:
       <td>1.0000</td>
    </tr>
    <tr>
-      <td>FNN</td>
+      <td>CNN</td>
       <td>3_2_3</td>
       <td>sigmod</td>
       <td>mnist</td>
